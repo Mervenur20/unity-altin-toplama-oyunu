@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/hesapKayit.unity
+    guid: 5e301c4a91706324b93b09c9246fa488
+  - enabled: 1
+    path: Assets/Scenes/hesapGiris.unity
+    guid: 1df39608850113841951109fb6e58e2c
+  - enabled: 1
+    path: Assets/Scenes/S2Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/S4Level2.unity
+    guid: 61ac57d63fa43e4478677525a1503f23
+  - enabled: 1
+    path: Assets/Scenes/S5Level3.unity
+    guid: 5899f46a6a637504f88358f5c58cb1b7
+  - enabled: 1
+    path: Assets/Scenes/S6KazanmaSahnesi.unity
+    guid: d52b0098d79258640ab26b61902487be
+  - enabled: 1
+    path: Assets/Scenes/S1TanitimSahnesi.unity
+    guid: f5131100921dcd54e8e471d182502b6b
+  - enabled: 1
+    path: Assets/Scenes/S3KaybetmeSahnesi.unity
+    guid: e83afdd96e99ccd46906360af69d1739
+  m_configObjects: {}
